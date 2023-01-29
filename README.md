@@ -1,7 +1,7 @@
 # saloodo
 This repo contains 3 projects (server, biker, sender)
 To setup the environment first do the following on the server:
- 1-composer update
+ 1-composer update<br />
  2-php artisan migrate:fresh --seed
  3-php artisan serve
  
